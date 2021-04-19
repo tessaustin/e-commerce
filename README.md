@@ -2,7 +2,7 @@
 
 ## Description:
 As a manager at an internet retail company
-You have a back end for an e-commerce website that uses the latest technologies
+you will have a back end for an e-commerce website that uses the latest technologies
 so that your company can compete with other e-commerce companies
 
 ## Licensing:
